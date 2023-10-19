@@ -125,4 +125,4 @@ text "Oops! Looks like something went wrong." in an `<h1>`.
 
 ## Resources
 
-- [React Router docs](https://reactrouter.com/en/main)
+- [React Router](https://reactrouter.com/en/main)
